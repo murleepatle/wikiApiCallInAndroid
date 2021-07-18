@@ -24,7 +24,7 @@
 Rest API doc  https://www.mediawiki.org/wiki/API:Main_page
 
 ### ScreenShot
-|  ![](https://raw.githubusercontent.com/murleepatle/wikiApiCallInAndroid/master/screenshot/img-Screenshot1.jpeg)  | ![](https://raw.githubusercontent.com/murleepatle/wikiApiCallInAndroid/master/screenshot/img-Screenshot3.jpeg)|
+|  ![](https://raw.githubusercontent.com/murleepatle/wikiApiCallInAndroid/master/screenshot/img-Screenshot1.jpeg)  | ![](https://raw.githubusercontent.com/murleepatle/wikiApiCallInAndroid/master/screenshot/img-Screenshot2.jpeg)|
 | ------------ | ------------ |
 |  ![](https://raw.githubusercontent.com/murleepatle/wikiApiCallInAndroid/master/screenshot/img-Screenshot3.jpeg)  | ![](https://raw.githubusercontent.com/murleepatle/wikiApiCallInAndroid/master/screenshot/img-Screenshot4.jpeg)|
 | ------------ | ------------ |
