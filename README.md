@@ -1,5 +1,5 @@
 # wikiApiCallInAndroid
-#wikipedia Rest API Android App
+# wikipedia Rest API Android App
 
 ![](https://raw.githubusercontent.com/murleepatle/wikiApiCallInAndroid/master/app/src/main/res/mipmap-xxxhdpi/ic_launcher.png)
 
@@ -24,7 +24,7 @@
 Rest API doc  https://www.mediawiki.org/wiki/API:Main_page
 
 ### ScreenShot
-|  ![](https://raw.githubusercontent.com/murleepatle/wikiApiCallInAndroid/master/screenshot/img-Screenshot1.jpeg)  | ![](https://raw.githubusercontent.com/murleepatle/wikiApiCallInAndroid/master/screenshot/img-Screenshot2.jpeg)|
+| ![](https://raw.githubusercontent.com/murleepatle/wikiApiCallInAndroid/master/screenshot/img-Screenshot1.jpeg)  | ![](https://raw.githubusercontent.com/murleepatle/wikiApiCallInAndroid/master/screenshot/img-Screenshot2.jpeg)|
 | ------------ | ------------ |
 |  ![](https://raw.githubusercontent.com/murleepatle/wikiApiCallInAndroid/master/screenshot/img-Screenshot3.jpeg)  | ![](https://raw.githubusercontent.com/murleepatle/wikiApiCallInAndroid/master/screenshot/img-Screenshot4.jpeg)|
 | ------------ | ------------ |
