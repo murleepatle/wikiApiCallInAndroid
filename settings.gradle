@@ -1,0 +1,2 @@
+rootProject.name = "WikiAPITesty"
+include ':app'
